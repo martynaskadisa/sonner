@@ -3,7 +3,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import './styles.css';
 import { getAsset, Loader } from './assets';
 import { HeightT, Position, PromiseData, ToastT, ToastToDismiss, ExternalToast, ToasterProps } from './types';
 import { ToastState, toast } from './state';

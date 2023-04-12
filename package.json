@@ -1,7 +1,7 @@
 {
-  "name": "sonner",
+  "name": "@martynaskadisa/sonner",
   "version": "0.3.0",
-  "description": "An opinionated toast component for React.",
+  "description": "A bit less opinionated toast component for React.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
